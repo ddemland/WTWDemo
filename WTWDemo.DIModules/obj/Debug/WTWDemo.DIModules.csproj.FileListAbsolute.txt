@@ -1,0 +1,5 @@
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.DIModules\bin\Debug\WTWDemo.DIModules.dll
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.DIModules\bin\Debug\WTWDemo.DIModules.pdb
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.DIModules\obj\Debug\WTWDemo.DIModules.csprojResolveAssemblyReference.cache
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.DIModules\obj\Debug\WTWDemo.DIModules.dll
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.DIModules\obj\Debug\WTWDemo.DIModules.pdb

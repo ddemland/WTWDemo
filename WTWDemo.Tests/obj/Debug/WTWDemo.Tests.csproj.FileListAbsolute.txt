@@ -1,0 +1,9 @@
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.Tests\bin\Debug\WTWDemo.Tests.dll
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.Tests\bin\Debug\WTWDemo.Tests.pdb
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.Tests\bin\Debug\nunit.framework.dll
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.Tests\bin\Debug\WTWDemo.DIModules.dll
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.Tests\bin\Debug\WTWDemo.DIModules.pdb
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.Tests\bin\Debug\nunit.framework.xml
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.Tests\obj\Debug\WTWDemo.Tests.csprojResolveAssemblyReference.cache
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.Tests\obj\Debug\WTWDemo.Tests.dll
+c:\users\daved\documents\visual studio 2015\Projects\WTWDemo\WTWDemo.Tests\obj\Debug\WTWDemo.Tests.pdb

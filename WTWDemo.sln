@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTWDemo", "WTWDemo\WTWDemo.csproj", "{860DB9EB-324C-4B21-BBE4-B811FA520B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTWDemo.DIModules", "WTWDemo.DIModules\WTWDemo.DIModules.csproj", "{F177E0D2-AA07-4E9B-AE57-653AE764E091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTWDemo.Tests", "WTWDemo.Tests\WTWDemo.Tests.csproj", "{A044DD43-BFAC-45A7-9C1B-2EE68C002EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860DB9EB-324C-4B21-BBE4-B811FA520B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860DB9EB-324C-4B21-BBE4-B811FA520B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860DB9EB-324C-4B21-BBE4-B811FA520B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860DB9EB-324C-4B21-BBE4-B811FA520B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F177E0D2-AA07-4E9B-AE57-653AE764E091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F177E0D2-AA07-4E9B-AE57-653AE764E091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F177E0D2-AA07-4E9B-AE57-653AE764E091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F177E0D2-AA07-4E9B-AE57-653AE764E091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A044DD43-BFAC-45A7-9C1B-2EE68C002EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A044DD43-BFAC-45A7-9C1B-2EE68C002EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A044DD43-BFAC-45A7-9C1B-2EE68C002EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A044DD43-BFAC-45A7-9C1B-2EE68C002EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
